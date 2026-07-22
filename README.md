@@ -138,7 +138,6 @@ Top 10 Produtos:
 
 ## Dashboard
 
-![Dashboard de Vendas]
 <img width="914" height="495" alt="Captura de tela 2026-07-22 111447" src="https://github.com/user-attachments/assets/8e0cf5e2-3b8e-45c4-9b42-1cefa17a91d6" />
 
 ---
