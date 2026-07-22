@@ -113,6 +113,8 @@ Contendo um resumo das principais informações encontradas.
 - Conversão e criação de métricas temporais;
 - Validação de dados duplicados.
 
+---
+
 ## ▶️ Como executar o projeto
 
 Clone o repositório:
