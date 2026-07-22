@@ -1,4 +1,4 @@
-# ETL de Vendas com Python e Pandas
+# Pipeline ETL de Vendas com Python, Pandas e Power BI
 
 ## 📌 Sobre o projeto
 
@@ -12,6 +12,8 @@ O objetivo é transformar um arquivo CSV bruto em uma base de dados limpa, gerar
 
 - Python
 - Pandas
+- PowerBi
+- Git/GitHub
 - Ambiente virtual (venv)
 
 ---
@@ -19,7 +21,7 @@ O objetivo é transformar um arquivo CSV bruto em uma base de dados limpa, gerar
 ## 📂 Estrutura do projeto
 
 ```text
-projeto_etl-preços/
+projeto_etl-vendas/
 
 ├── main.py
 
@@ -103,7 +105,21 @@ Contendo um resumo das principais informações encontradas.
 
 ---
 
+## 📈 Resultados do processamento
+
+- 9.800 registros analisados;
+- 18 colunas processadas;
+- Tratamento de valores nulos;
+- Conversão e criação de métricas temporais;
+- Validação de dados duplicados.
+
 ## ▶️ Como executar o projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/DenerL/projeto-etl-vendas.git
+```
 
 Instale as dependências:
 
@@ -138,7 +154,7 @@ Top 10 Produtos:
 
 ## Dashboard
 
-<img width="914" height="495" alt="Captura de tela 2026-07-22 111447" src="https://github.com/user-attachments/assets/8e0cf5e2-3b8e-45c4-9b42-1cefa17a91d6" />
+![Dashboard de Vendas](dashboard/dashboard.png)
 
 ---
 
