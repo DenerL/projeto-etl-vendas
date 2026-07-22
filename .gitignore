@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+
+.vscode/
+
+*.log
+
+data/saida/*.csv
+!data/saida/superstore_tratado.csv
+
+data/saida/*.txt
+!data/saida/relatorio_vendas.txt

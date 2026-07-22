@@ -1,0 +1,41 @@
+==================================================
+RELATÓRIO DE VENDAS
+==================================================
+
+Faturamento Total: R$ 2.261.536,78
+
+Categoria com maior faturamento:
+Technology: R$ 827.455,87
+
+Top 10 Produtos:
+
+1. Canon imageCLASS 2200 Advanced Copier
+   R$ 61.599,82
+
+2. Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind
+   R$ 27.453,38
+
+3. Cisco TelePresence System EX90 Videoconferencing Unit
+   R$ 22.638,48
+
+4. HON 5400 Series Task Chairs for Big and Tall
+   R$ 21.870,58
+
+5. GBC DocuBind TL300 Electric Binding System
+   R$ 19.823,48
+
+6. GBC Ibimaster 500 Manual ProClick Binding System
+   R$ 19.024,50
+
+7. Hewlett Packard LaserJet 3310 Copier
+   R$ 18.839,69
+
+8. HP Designjet T520 Inkjet Large Format Printer - 24" Color
+   R$ 18.374,90
+
+9. GBC DocuBind P400 Electric Binding System
+   R$ 17.965,07
+
+10. High Speed Automatic Electric Letter Opener
+   R$ 17.030,31
+
